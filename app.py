@@ -1,8 +1,8 @@
-##################
-# Sinhcoms LLP (www.sinhcoms.com)
-# if not working install pygame using following command
-# python -m pip install pygame
-##################
+########################################################
+# Sinhcoms LLP (www.sinhcoms.com)                       #
+# if not working install pygame using following command #
+# python -m pip install pygame                          #
+#######################################################
 import pygame, pygame.font
 import random
 
